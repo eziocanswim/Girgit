@@ -1,7 +1,7 @@
 # Color Changer App
 
 ## Overview
-Color Changer is a simple Flutter app that allows users to change the background color of the screen by tapping on different colored buttons. The UI consists of five buttons:
+Color Changer is a simple yet unique Flutter app that allows users to change the background color of the screen by tapping on different colored buttons. The UI consists of five buttons:
 - **BLACK**  
 - **BLUE**  
 - **RED**  
