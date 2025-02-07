@@ -1,16 +1,51 @@
-# color_changer
+# Color Changer App
 
-A new Flutter project.
+## Overview
+Color Changer is a simple Flutter app that allows users to change the background color of the screen by tapping on different colored buttons. The UI consists of five buttons:
+- **BLACK**  
+- **BLUE**  
+- **RED**  
+- **GREEN**  
+- **RANDOM** (generates a random color)
 
-## Getting Started
+## Features
+- **Instant Background Color Change**: Click a button to change the background to the selected color.
+- **Random Color Generator**: The "RANDOM" button applies a randomly generated color.
+- **Smooth UI Design**: Simple and user-friendly interface with Floating Action Buttons.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+[Add screenshots here]
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/eziocanswim/Girgit.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd Girgit
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies
+- **Flutter SDK**
+- **Dart**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Use
+1. Open the app.
+2. Click on any button to change the background color.
+3. Click on the **RANDOM** button to generate a new random color.
+
+## Contributing
+Feel free to submit pull requests or report issues.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+
