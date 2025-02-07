@@ -13,9 +13,6 @@ Color Changer is a simple Flutter app that allows users to change the background
 - **Random Color Generator**: The "RANDOM" button applies a randomly generated color.
 - **Smooth UI Design**: Simple and user-friendly interface with Floating Action Buttons.
 
-## Screenshots
-[Add screenshots here]
-
 ## Installation
 1. Clone this repository:
    ```sh
